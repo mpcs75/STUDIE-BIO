@@ -3,7 +3,4 @@
 ## Algemeen
 
 * [Samenvatting](README.md)
-
-***
-
-* [Page 1](page-1.md)
+* [Page 1](algemeen/page-1.md)
